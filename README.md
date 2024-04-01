@@ -39,12 +39,12 @@ Make sure to adjust the paths to datasets and models as per your setup.
 
 ## Datasets
 
-This model was trained on:
-- CelebA
-- HIDE
-- WIDEFACE
+This model was trained on a curated selection of image datasets aimed at improving its capability to generalize across various types of images and blurring patterns. The datasets used include CelebA, HIDE, and WIDEFACE, among others available for research and development in image deblurring tasks.
 
-These datasets were chosen for their diversity, aiding in incremental learning and enhancing the model's generalizability.
+For additional resources and a comprehensive list of image deblurring datasets, visit [this Kaggle page](https://www.kaggle.com/datasets/jishnuparayilshibu/a-curated-list-of-image-deblurring-datasets).
+
+These datasets were chosen for their diversity, aiding in incremental learning and enhancing the model's adaptability and performance in deblurring tasks.
+
 
 ## Evaluation Metrics
 
